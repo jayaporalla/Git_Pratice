@@ -1,0 +1,22 @@
+{
+  "name": "githubactions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayaporalla/Git_Pratice.git"
+  },
+  "author": "Jayasri P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jayaporalla/Git_Pratice/issues"
+  },
+  "homepage": "https://github.com/jayaporalla/Git_Pratice#readme",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
